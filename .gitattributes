@@ -1,0 +1,2 @@
+*.hepmc filter=lfs diff=lfs merge=lfs -text
+*.hepmc.gz filter=lfs diff=lfs merge=lfs -text
